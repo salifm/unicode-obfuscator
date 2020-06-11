@@ -1,0 +1,12 @@
+main
+unicode-obfuscator
+
+/uobf
+/udeobf
+
+/bin/uobf/uobf
+/bin/udeobf/udeobf
+
+*.so
+*.dylib
+*.dll
